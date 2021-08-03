@@ -1,0 +1,83 @@
+.cartIcon{
+    background-color: rgb(0,56,89);
+}
+
+.main_bar{
+    font-size: large;
+}
+
+footer{
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(52,58,64);
+   padding: 25px 0;
+   text-align: center;
+}
+
+.footer_text a{
+    color: rgb(255,255,255,0.6);
+}
+
+.banner_top{
+    padding-bottom: 60px;
+}
+
+.top_sales{
+    margin:0 100px;
+}
+
+.Special_Price{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+.Special_Price .grid .grid-item {
+    margin-right: 1.2rem;
+    margin-top: 1rem;
+  }
+
+.new_phones{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#blogs{
+    margin-top: 20px;  
+}
+
+.container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.container img{
+    height: 600px;
+    width: 600px;
+}
+
+.container .header{
+    padding-top: 50px;
+}
+
+.container button{
+    padding:5px 70px ;
+}
+
+.container .but{
+    margin-left: 55px;
+}
+
+
+#blogs .card-img-top{
+    height: 300px;
+}
+
+
+
+
